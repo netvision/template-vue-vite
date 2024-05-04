@@ -1,7 +1,8 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.0.2",
+  "packageManager": "pnpm@9.0.4",
+  "package-manager-strict": false,
   "scripts": {
     "build": "vite build",
     "dev": "vite --port 3333 --open",
